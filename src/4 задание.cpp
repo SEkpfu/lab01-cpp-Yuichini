@@ -3,7 +3,7 @@
 #include <cmath>
 
 int main() {
-    setlocale(LC_ALL, "RU")
+    setlocale(LC_ALL, "RU");
     double x, p;
     std::cout << "Введите значение x: ";
     std::cin >> x;
